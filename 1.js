@@ -1,3 +1,4 @@
+<<<<<<< Upstream, based on origin/master
 
 <<<<<<< Upstream, based on origin/master
 var x= 1223355532;
@@ -18,3 +19,6 @@ var x= 121555;
 >>>>>>> f339ce1 112234
 
 
+=======
+var x= 777777;
+>>>>>>> 454c050 1122
